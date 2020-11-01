@@ -1,4 +1,3 @@
-# ml algos http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
 from sklearn.ensemble import *
 from sklearn.datasets import *
 from sklearn.svm import *
